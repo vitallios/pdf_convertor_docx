@@ -1,0 +1,16 @@
+{
+  "name": "pdfpars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "new": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.18",
+    "pdf-parse": "^1.1.1"
+  }
+}
